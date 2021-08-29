@@ -1,0 +1,6 @@
+framework module xdata_core {
+  umbrella header "xdata_core.h"
+
+  export *
+  module * { export * }
+}
